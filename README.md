@@ -134,6 +134,11 @@ int yywrap() {
 
 ![Screenshot 2024-10-21 153107](https://github.com/user-attachments/assets/7bd98a43-dcf2-481c-9500-74a5b72bf94a)
 
+![Screenshot 2024-10-21 161344](https://github.com/user-attachments/assets/dbf5355a-661b-4e26-8ab2-fd654267aaa4)
+
+![Screenshot 2024-10-21 161321](https://github.com/user-attachments/assets/a748fe3d-6b7c-4181-b47b-42fe69348fa1)
+
+![Screenshot 2024-10-21 161302](https://github.com/user-attachments/assets/bc1ccdcc-f639-435c-8d35-dcc139c6b4a7)
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
